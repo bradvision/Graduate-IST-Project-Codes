@@ -1,13 +1,5 @@
 # IST687 FINAL PROJECT  (Fall 17)
 
-      # TEAM:
-      # David Forteguerre  dfortegu@syr.edu
-      # Bradley Wuon Seok Choi  bwschoi@syr.edu 
-      # Devin Shannon  dpshanno@syr.edu
-      # Hem Adhikari hadhikar@syr.edu
-
-
-
     # STEP 1
 
 ##################################################################################
